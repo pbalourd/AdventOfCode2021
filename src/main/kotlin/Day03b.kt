@@ -56,29 +56,6 @@ fun main() {
 
     println(oxygen * co)
 
-//    val result = mutableListOf<Int>()
-//    val total = lineList.size
-//    for (i in 0..11) {
-//        var count = 0
-//        for (line in lineList) {
-//            if (line[i] == '1') count++
-//        }
-//        if (count > total / 2) result.add(1)
-//        else result.add(0)
-//    }
-//    println(result)
-//
-//    var gamma = 0
-//    var epsilon = 0
-//    var value = 2048
-//    for (k in result) {
-//        gamma += k * value
-//        epsilon += (1 - k) * value
-//        value /= 2
-//    }
-//
-//    println(gamma * epsilon)
-
 }
 
 
