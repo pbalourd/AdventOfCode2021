@@ -1,6 +1,6 @@
 import java.io.File
 
-val firstItems = 10
+val firstItems = 20
 
 fun main() {
     val input = File("src/main/kotlin/input22.txt").readLines()
